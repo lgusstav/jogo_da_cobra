@@ -10,6 +10,7 @@ cobra[0] = {
 let pontos = 0;
 
 
+
 //funcção que cria as pedras
 function DrawRock(){
     if(pontos >= 3){
