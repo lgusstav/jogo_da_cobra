@@ -8,4 +8,20 @@ justify-content: center;
 align-items: center;
 background-color: white;
 color: rgb(12, 236, 12);
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.texto{
+   width: 512px; 
+   align-items: center;
+}
+
+.texto h1{
+   margin-bottom: 0px; 
+   text-align: center;
+}
+
+.texto h2{
+    margin-top: 0px; 
+    text-align:right;
+ }
